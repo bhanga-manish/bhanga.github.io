@@ -11,4 +11,4 @@ I also like to work on backend applications, Experimenting with different framew
 
 When I'm not in front of a whiteboard or computer, I'm probably playing football, reading about psychology, taking entrepreneur courses or binge watching some movies
 
-I hope my blog can light up some eager minds who share the same passion as I do. If you want to collaborate on projects, feel free to [reach out to me.]{mailto:manishbhanga@gmail.com}
+I hope my blog can light up some eager minds who share the same passion as I do. If you want to collaborate on projects, feel free to [reach out to me.][mailto:manishbhanga@gmail.com]
