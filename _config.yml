@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Manish Bhanga"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Manish Bhanga"
+name                     : "Home"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
