@@ -7,6 +7,6 @@ main:
   - title: "Blogs"
     url: /blogs/
   - title: "Posts by Tags"
-   url: /tags/
+    url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/
