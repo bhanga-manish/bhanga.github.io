@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
- image: "/images/steve-shreve-PttAM_gjaRk-unsplash.jpg"
+ image: "/images/nadine-shaabana-tYPBrh4wEcw-unsplash.jpg"
 ---
 
 Hi, my name is Manish. I love to think and read about how human intelligence has arisen and whether human level general intelligence can be replicated on machines. This motivates me to study machine learning. I code on Python to solve and optimize human problem using robotics process automation, machine learning, deep learning or combination of all.
