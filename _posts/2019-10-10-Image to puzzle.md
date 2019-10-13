@@ -7,7 +7,7 @@ excerpt: "Python script that turns your images into puzzle"
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/puzzle/record.gif" alt="Image puzzle gif">
 
-Hi this post explains how you can convert your images into a block puzzle using Python. Lets breakdown the main task into subtasks:
+Hello everyone, This post explains how you can convert your images into a block puzzle using Python. Lets breakdown the main task into subtasks:
 1. **Initialise game environment**
 2. **Image loader**
 3. **Divide image into blocks**
