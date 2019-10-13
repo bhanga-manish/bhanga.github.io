@@ -5,4 +5,4 @@ tags: [Python, Image, PyGame]
 excerpt: "Python script that turns your images into puzzle"
 ---
 
-## Hello
+<img src="{{ site.url }}{{ site.baseurl }}/images/puzzle/record.gif" alt="Image puzzle gif">
