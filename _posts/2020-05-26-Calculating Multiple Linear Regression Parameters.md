@@ -6,9 +6,17 @@ excerpt: "Learn how python libraries calculates the estimated parameters for Mul
 ---
 
 Linear regression is used to find a linear relationship between a target and one or more predictors.
-Multiple linear regression explains the relationship between one dependent variable (Y) and two or more independent variables ($X_1, X_2, $X_3 … X_n$).
+Multiple linear regression explains the relationship between one dependent variable (Y) and two or more independent variables ($X_1, X_2, X_3 … X_n$).
 
-$$ \hat{Y} = B_0 + B_1.X_1 + B_2.X_2+...+B_n.X_n $$
+$$ \hat{Y} = B_0 + B_1.X_1 + B_2.X_2+...+B_n.X_n - e $$
+
+- Y - is the orignal score
+- $\hat{Y}$ - is the predicted score
+- e - is the error (Y - $\hat{Y}$)
+- $B_0$ - is the intercept also known as regression constant
+- $B_n$ - is the slope also known as regression coefficient
+- $X_n$ - are predictor variables
+- n - is the number of predic variables.
 
 With the growing data science community and open source projects. There are enough packages and libraries to help anyone from getting started to deploy Multiple Linear Regression models into production. These packages easily help us in computing coefficients.It will be a nice thought to learn how these coefficients are computed. In this blog we’ll see how some of the packages use Normal Equations to compute the parameters.
 
@@ -24,4 +32,14 @@ We want to find the “best” β in the sense that the sum of squared residuals
 
 $$ \hat{Y} = X\hat{ß} $$
 
-$ \hat{a}, \bar{a}, \tilde{a} $
+The $\hat{Y}$ is the predicted values in our regression model that all lie on regression hyper-plane. Suppose further that betahat satisfies the above equation. Then residuals e(Y - $\hat{Y}$) are orthogonal (perpendicular) to the columns X (Input matrix) then
+
+$$ X_'(Y - X\hat{ß}) = 0$$
+$$ X_'Y - X_'X\hat{ß} = 0 $$
+$$ X_'X\hat{ß} = X_'Y $$
+
+These vector normal equations are similar to normal equations that can be obtained using derivatives(link to wikipedia topic). To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X_'X$ we will get
+
+$$ \hat{ß} = (X_'X)_-1 X_'Y $$
+
+Let’s put this equation to use for one of our examples.
