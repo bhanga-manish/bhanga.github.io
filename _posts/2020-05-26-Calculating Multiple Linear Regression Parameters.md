@@ -21,6 +21,6 @@ $$ Y = Xß + ∑ $$
 
 We want to find the “best” β in the sense that the sum of squared residuals is minimized. The smallest possible value so that the sum of squares could be zero. If value of i reached zero, then.
 
-$$ Y^2 = Xß^2 $$
+$$ hat{Y} = Xhat{ß} $$
 
-$$ \hat{a}, \bar{a}, \tilde{a} $$
+$ \hat{a}, \bar{a}, \tilde{a} $
