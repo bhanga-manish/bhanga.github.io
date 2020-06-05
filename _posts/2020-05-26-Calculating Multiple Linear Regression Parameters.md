@@ -23,4 +23,4 @@ We want to find the “best” β in the sense that the sum of squared residuals
 
 $$ Y^2 = Xß^2 $$
 
-\[p(\theta) = \mathbf{\prod}_{i,c}p(\mathbf{\theta}^i(c))\]
+$$ [p(\theta) = \mathbf{\prod}_{i,c}p(\mathbf{\theta}^i(c))\] $$
