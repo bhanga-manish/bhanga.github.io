@@ -23,4 +23,4 @@ We want to find the “best” β in the sense that the sum of squared residuals
 
 $$ Y^2 = Xß^2 $$
 
-$\hat{a}, \bar{a}, \tilde{a}$
+$ \hat{a}, \bar{a}, \tilde{a} $
