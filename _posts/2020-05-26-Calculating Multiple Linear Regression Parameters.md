@@ -35,11 +35,10 @@ $$ \hat{Y} = X\hat{ß} $$
 The $\hat{Y}$ is the predicted values in our regression model that all lie on regression hyper-plane. Suppose further that betahat satisfies the above equation. Then residuals e(Y - $\hat{Y}$) are orthogonal (perpendicular) to the columns X (Input matrix) then
 
 $$ X_'(Y - X\hat{ß}) = 0 $$
-$$ X_'Y - X_'X\hat{ß} = 0 $$
-$$ X_'X\hat{ß} = X_'Y $$
+
 
 These vector normal equations are similar to normal equations that can be obtained using derivatives(link to wikipedia topic). To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X_'X$ we will get
 
-$$ \hat{ß} = (X_'X)_-1 X_'Y $$
+
 
 Let’s put this equation to use for one of our examples.
