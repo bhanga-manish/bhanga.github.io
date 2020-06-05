@@ -6,7 +6,8 @@ excerpt: "Learn how python libraries calculates the estimated parameters for Mul
 ---
 
 Linear regression is used to find a linear relationship between a target and one or more predictors.
-Multiple linear regression explains the relationship between one dependent variable (y) and two or more independent variables (x1, x2, x3… etc).
+Multiple linear regression explains the relationship between one dependent variable (Y) and two or more independent variables ($X_1, X_2, $X_3 … X_n$).
+
 $$ \hat{Y} = B_0 + B_1.X_1 + B_2.X_2+...+B_n.X_n $$
 
 With the growing data science community and open source projects. There are enough packages and libraries to help anyone from getting started to deploy Multiple Linear Regression models into production. These packages easily help us in computing coefficients.It will be a nice thought to learn how these coefficients are computed. In this blog we’ll see how some of the packages use Normal Equations to compute the parameters.
