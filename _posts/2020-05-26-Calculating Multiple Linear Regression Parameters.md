@@ -26,7 +26,7 @@ The process of derivation is more convenient with the help of vectors and matric
 
 With this compact notation, the linear regression model can be written in the form.
 
-$$ Y^2 = Xß + e^' $$
+$$ Y^2 = Xß + e $$
 
 We want to find the “best” β in the sense that the sum of squared residuals is minimized. The smallest possible value so that the sum of squares could be zero. If value of i reached zero, then.
 
@@ -34,9 +34,9 @@ $$ \hat{Y} = X\hat{ß} $$
 
 The $\hat{Y}$ is the predicted values in our regression model that all lie on regression hyper-plane. Suppose further that betahat satisfies the above equation. Then residuals e(Y - $\hat{Y}$) are orthogonal (perpendicular) to the columns X (Input matrix) then
 
-$$ X^' (Y - X\hat{ß}) = 0 $$
+$$ X^2 + (Y - X\hat{ß}) = 0 $$
 
-$$ X^' $$
+$$ X^2 $$
 These vector normal equations are similar to normal equations that can be obtained using derivatives(link to wikipedia topic). To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X_'X$ we will get
 
 
