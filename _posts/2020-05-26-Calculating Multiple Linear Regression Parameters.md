@@ -42,7 +42,7 @@ $$ X^TX\hat{ß} = X^TY $$
 
 These vector normal equations are similar to normal equations that can be obtained using derivatives. To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X^TX$ we will get
 
-$$ \hat{ß} = (X^TX)^-1X^TY $$
+$$ \hat{ß} = (X^TX)^{-1} X^TY $$
 
 - $X^T$ - is known as X-transpose(switch rows with the columns of the matrix)
 - $X^TX$ -  is the dot product between X and X-Transpose
