@@ -22,7 +22,9 @@ With the growing data science community and open source projects. There are enou
 
 The process of derivation is more convenient with the help of vectors and matrices.
 
+<p align="center"">
 <img src="{{ site.url }}{{ site.baseurl }}/images/MLR/MLR_matrix_form.png" alt="Matrices and vectors">
+</p>
 
 With this compact notation, the linear regression model can be written in the form.
 
@@ -40,8 +42,13 @@ $$ X^TY - X^TX\hat{ß} = 0 $$
 
 $$ X^TX\hat{ß} = X^TY $$
 
-These vector normal equations are similar to normal equations that can be obtained using derivatives(link to wikipedia topic). To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X^TX$ we will get
+These vector normal equations are similar to normal equations that can be obtained using derivatives. To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X^TX$ we will get
 
 $$ \hat{ß} = (X^TX)^-1X^TY $$
 
-Let’s put this equation to use for one of our examples.
+- $X^T$ - is known as X-transpose(switch rows with the columns of the matrix)
+- $X^TX$ -  is the dot product between X and X-Transpose
+- $(X^TX)^-1$ - is the inverser of $X^TX$
+
+Let’s use this equation to find the best fit estimated parameters for our example. To solve this normal equation all you need to know is matrix addition, subtraction, matrix multiplication (Dot product) and Inverse.
+Please note that following computations are done for the purpose of understanding the process of estimating parameters.
