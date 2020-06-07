@@ -22,9 +22,7 @@ With the growing data science community and open source projects. There are enou
 
 The process of derivation is more convenient with the help of vectors and matrices.
 
-<p align="center"">
-<img src="{{ site.url }}{{ site.baseurl }}/images/MLR/MLR_matrix_form.png" alt="Matrices and vectors">
-</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/MLR/MLR_matrix_form.png" alt="Matrices and vectors" align="center">
 
 With this compact notation, the linear regression model can be written in the form.
 
