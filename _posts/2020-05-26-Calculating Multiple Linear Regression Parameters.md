@@ -42,6 +42,6 @@ $$ X^TX\hat{ß} = X^TY $$
 
 These vector normal equations are similar to normal equations that can be obtained using derivatives(link to wikipedia topic). To find the best fit estimated parameters for the $\hat{ß}$, We need to solve the normal equation so by multiplying both side by $X^TX$ we will get
 
-
+$$ \hat{ß} = (X^TX)^-1X^TY $$
 
 Let’s put this equation to use for one of our examples.
