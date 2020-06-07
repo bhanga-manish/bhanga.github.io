@@ -46,7 +46,25 @@ $$ \hat{ß} = (X^TX)^{-1} X^TY $$
 
 - $X^T$ - is known as X-transpose(switch rows with the columns of the matrix)
 - $X^TX$ -  is the dot product between X and X-Transpose
-- $(X^TX)^-1$ - is the inverser of $X^TX$
+- $(X^TX)^{-1}$ - is the inverser of $X^TX$
 
 Let’s use this equation to find the best fit estimated parameters for our example. To solve this normal equation all you need to know is matrix addition, subtraction, matrix multiplication (Dot product) and Inverse.
 Please note that following computations are done for the purpose of understanding the process of estimating parameters.
+
+Feature matrix X
+<img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/X.png" alt="Feature matrix X">
+
+Dot product of X & $X^TX$
+<img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/XTX.png" alt="Dot product of X and X-transpose">
+
+$(X^TX)^{-1}$
+<img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/(XTX)-1.png" alt="Inverse of (dot product of X and X-transpose)">
+
+Y target variable vector
+<img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/Y.png" alt="target variable vector">
+
+Dot product of $X^TX$ & Y
+<img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/XTY.png" alt="Dot product of X-transpose and Y">
+
+And finally $(X^TX)^{-1} X^TY$
+<img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/final.png" alt="Estimated params">
