@@ -68,3 +68,24 @@ Dot product of $X^TX$ & Y
 
 And finally $(X^TX)^{-1} X^TY$
 <img style="display: block; margin: auto;" src="{{ site.url }}{{ site.baseurl }}/images/MLR/final.png" alt="Estimated params">
+
+To verify our estimated values let us use sklearn package to see how close the values are to the package's computed values.
+
+```python
+from sklearn import linear_model
+X = sample_df[[X1,'X2]]
+Y = sample_df[‘Y']
+
+regr = linear_model.LinearRegression()
+regr.fit(X, Y)
+
+print('Intercept: \n', regr.intercept_)
+print('Coefficients: \n', regr.coef_)
+```
+
+```python
+Intercept: 5.219281272910356
+Coefficients: [0.03021039 0.19988723]
+```
+
+The values are exactly the same, showing that sklearn’s linear_model uses Normal Equations to compute the coefficients.
