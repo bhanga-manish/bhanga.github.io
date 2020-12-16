@@ -5,19 +5,19 @@ tags: [Python, Image, PyGame]
 excerpt: "Optimizing the important variables penalizing for the last iteration"
 ---
 
-2020 has been a year of blue
-And I met you out the blue
-Now comes Christmas Day when I disappointed you
-I don't know what I can do.
+2020 has been a year of blue...
+And I met you out the blue...
+Now comes Christmas Day when I disappointed you...
+I don't know what I can do....
 
-Accepting my mistake and learning from it is what I'll do
-Frequently I'll say sorry too
-May be this will make better too
-Hopefully that will bring out Bhanga Version 2
+Accepting my mistake and learning from it is what I'll do..
+Frequently I'll say sorry too...
+May be this will make better too...
+Hopefully that will bring out Bhanga Version 2...
 
-Expressing in words is where I fail
-I swear I'll not repeat this trail
-I'll keep eye on every tale I tell
+Expressing in words is where I fail...
+I swear I'll not repeat this trail...
+I'll keep eye on every tale I tell...
 Please accept this apology without fail :see_no_evil:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/puzzle/sorry_1.gif" alt="Image puzzle gif">
@@ -26,7 +26,7 @@ Please accept this apology without fail :see_no_evil:
 
 
 Also,
-### Happy 10 Months :heart: :heart: :exclamation: :see_no_evil:
+### Happy 10 Months:heart::heart::see_no_evil:
 
 
  
