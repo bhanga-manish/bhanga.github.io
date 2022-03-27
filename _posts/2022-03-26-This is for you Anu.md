@@ -5,33 +5,37 @@ tags: []
 excerpt: "A blog where I express my feelings to you, hopefully in a better way"
 ---
 
-Hello, I have so much to say but as soon as I begin putting it in words my brain keep showing me that Jethalal sticker. Since I am still looking for a comeback for that, I took a pause, drank a cup of coffee in my fav mug, reminiscing the time we click this beautiful picture and I keep imagining that you are sitting beside me and that has given me good hopes that I will pour out my words in a better way.
+Hello, I have so much to say but as soon as I begin putting it in words my brain keep showing me that Jethalal sticker.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Coffee Mug">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/jethalal-jethalal-dancing.gif" alt="Jethalal Dancing">
+
+Since I am still looking for a comeback for that, I took a pause, drank a cup of coffee in my fav mug, reminiscing the time we click this beautiful picture and I keep imagining that you are sitting beside me and that has given me good hopes that I will pour out my words in a better way.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/coffee_mug.jpeg" alt="Coffee Mug">
 
 I feel I have a mind to mind connection with you. It has been getting stronger and richer with each day passing. It feels like we are two different systems learning a new language, making adjustments, corrections to what we individually know and have learnt. It feels amazing to see how our conversations have gone deep, have become richer in emotions and how there are so less emotional barriers to access each other's feelings and I respect the changes you have made willingly and I am sorry that you have to make some unwillingly out of my conditions and some external factors, Nevertheless I am happy to see how far you have come.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Walk the path">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/walk.png" alt="Walk the path">
 
 Sometimes in a moment the connection stops sending the messages which it usually sends, instead it replies with the msg saying "The heart you're trying to reach is unreachable". Sometimes it feels like getting blank static signal like we used to get in televisions.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Static signal">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/tv-static.gif" alt="Static signal">
 
 As person who has been intrigued by the complex systems and problems, I tend to analyze and understand why does this connection has been affected. And many times I can't find a reason for it, hence I asked you what goes in your mind when you are silent and I felt calm when you said you are thoughtless for 70-80% of time. For the 30-20% of time it feels like you go crawl up in your heart or wrap a safety boundary around your head in a way that nothing leaves your mind.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Static signal">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/inside_heart.jpeg" alt="inside heart">
 
 I don't mind you spending time with your thoughts, with your inner self, solving mysteries, carving the beautiful world with your zeal or just figuring some more ways to tease me. But Sometimes I feel you go into parallel world of "What If's" or "Concerns" or "Contemplation".
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Parallel world">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/Parallel_world.png" alt="Parallel world">
 
 I don't know exactly how do you feel when you are in that world or zone. But I have seen how difficult it is for you to speak your mind, to just say a word, to let me know that you are bothered. That 2 mins you took to speak up but failed while I said what I would have asked if I would have won the game. For those 2 mins I just wanted to hug you tight enough to enter that safety boundary and listen to your thoughts and tame them down and bring you back with me. But you brought yourself back in a minute changed your mood stood so strong that you didn't let your thoughts over power you and I am proud you for that <3.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Hug Gif">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/hugs.gif" alt="Hug Gif">
 
 It feels like the more time you spend in that zone or world the questions and scenarios keeps branching out to adverse & diverse possible events which may occur in future, which in turns scares you about the path we are walking on. The more you traverse these branches it makes me feels that you are moving more farther away from me than ever. With that the connection gets weaker and weaker and the response I get is "The heart you're trying to reach is unreachable". I can feel you talking to me, sitting next to me but with that invisible mask around your head which prohibits from me to enter in your mind and prohibits you to speak your mind.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Parallel world multiple branches">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/parallel_world_multiple.png" alt="Parallel world multiple branches">
 
 I could be wrong and I wish to be wrong here. I want to understand you, how you handle yourself, how you treat your thoughts which pulls you away from reality. How do you help yourself stay calm in the moments when fear keeps lingering in the mind and I want to be part of it (I know it's too soon for it and I am not pushing just expressing) to ease that process for you, to bring you back in the reality with confidence that all those branches you have been traversing will never come to reality.
 
@@ -51,7 +55,7 @@ I know you care for me a lot, you won't let me down, and will pick me up every t
 
 I am not low at this point don't worry. I am worried about you, I can't see you not excited for something that you were so excited for till yesterday. I want to bring you back from that world, if I could I'll create a portal reach to you. Pick you up in my arms and place you here in marines and hoping to see a my Happy Anu back.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/" alt="Parallel world portal">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Anishaa/Parallel_world_portal.png" alt="Parallel world portal">
 
 This connection which I keep talking about is a voice inside my head, like a assistant which does analytics for me, makes my senses sharp, helps me focus and makes me alert of any danger in my surrounding. Whenever you go aise silent ya behavior change it feels like there is something stuck in my teeth and my tongue is going again and again at that teeth but when I reach out with my hand I couldn't find anything and it get's annoying and same feeling I get when I ask you what is wrong and I couldn't know what's wrong.
 
